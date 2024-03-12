@@ -1,0 +1,184 @@
+.container{width: 683px;
+height: 1813px;
+background-color: antiquewhite;
+margin-left: 500px;
+align-items: center;
+text-align: center;
+margin-right: auto;}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    ;width: 683px;
+    height: 1813px;
+    top: 17px;
+    left: -8px;
+    align-items: center;
+}
+.hero{
+    width: 683px;
+    height: 280px;
+    top: 22px;
+    left: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.left{
+    margin-left: 50px;
+    width: 500px;
+}
+.left h1{
+    width: 285px;
+    height: 150px;
+    top: 15px;
+    left: 38px;
+    font-size: 60px;
+    
+}
+.left p{
+    width: 321px;
+    height: 18px;
+    top: 199px;
+    left: 38px;
+    display: flex;
+    font-size: 15px;
+}
+.right img{
+    border-radius: 100%;
+    width: 268px;
+    height: 268px;
+    left: 354px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.About{
+    height: 250px;
+    left: 35px;
+
+}
+.About h2{
+  font-size: 40px;
+  height: 24px;
+  top: 22px; 
+  left: 250px; 
+}
+.About p{
+    font-size: 15px;
+    height: 130px;
+    top: 156px;
+    left: -225px;
+
+}
+.skills{
+    height: 217px;
+    top: 250px;
+    left:44px ;
+}
+.skills h3{
+    font-size: 40px;
+}
+.skills ol{
+    font-size: 20px;
+    font-weight: 300;
+    text-align: left;
+    margin-left: 30px;
+}
+.project{
+    width: 578px;
+    height: 211px;
+    top: 839px;
+    left: 68px;
+}
+.project h4{
+    font-size: 40px;
+    margin-left: 80px;
+    text-align: center;
+}
+.project .box1,.box2,.box3,.box4,.box5,.box6{
+    width: 132px;
+    height: 103px;
+    top: 73px;
+    left: 22px;
+    background-color: cadetblue;
+    margin: auto;
+}
+.boxes1{
+    display: flex;
+    margin-left: 68px;
+    width: 578px;
+}
+.boxes2{
+    width: 578px;
+    height: 211px;
+    top: 1054px;
+    left: 460px;
+    margin-left: 68px;
+    display: flex;
+}
+.contact{
+    top: 1239px;
+    margin-top: 200px;
+    width: 595px;
+    height: 363px;
+    top: 1239px;
+    left: 41px;
+}
+.contact h3{
+    font-size: 40px;
+    margin-left: 80px;
+}
+.NM{
+    width: 65px;
+    height: 25px;
+    top: 48px;
+    left: 58px;
+    margin-left: 50px;
+    margin-bottom: 1px;
+    font-size: 20px;
+}
+.name{
+    width: 505px;
+    height: 34px;
+    top: 86px;
+    left: 49px;
+    margin-left: 20px;
+}
+.EN{
+    width: 61px;
+    height: 20px;
+    top: 130px;
+    left: 51px;
+    margin-left: 50px;
+    margin-bottom: 1px;
+    font-size: 20px;
+}
+.email{
+    width: 508px;
+    height: 34px;
+    top: 161px;
+    left: 49px;
+    margin-left: 20px;
+}
+.message{
+    width: 508px;
+    height: 120px;
+    top: 219px;
+    left: 49px;
+    margin-top: 20px;
+    margin-left: 27px;
+    font-size: medium;
+}
+:placeholder-shown{
+    font-size: 25px;
+    font-weight: 700px;
+}
+.btn{
+    width: 359px;
+    height: px;
+    top: 1662px;
+    left: 107px;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: 700px;
+}
